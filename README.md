@@ -10,6 +10,8 @@ This is a starting point for a project using;
 * Chef
 * Vagrant (for development VMs)
 
+More info [here](http://roninonrails.wordpress.com/2014/03/21/getting-started-with-chef-and-vagrant)
+
 # Pre-requisites
 
 Ruby >=1.9 (on your development machine)
