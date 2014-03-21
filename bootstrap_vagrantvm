@@ -1,0 +1,4 @@
+#!/bin/bash
+
+vagrant up
+(cd chef; ./deploy.sh root@192.168.11.11)
